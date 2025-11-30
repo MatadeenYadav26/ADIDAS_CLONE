@@ -317,7 +317,7 @@ main section.view5 .cardc .icon {
   width: -moz-fit-content;
   width: fit-content;
   border-radius: 50%;
-  color: white;
+  color: black;
 }
 main section.view5 .cardc .bottom {
   display: flex;
